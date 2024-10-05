@@ -1,0 +1,1 @@
+Number = "+92 #your_number"
